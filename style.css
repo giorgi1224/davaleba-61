@@ -1,0 +1,14 @@
+.box {
+    width: 250px;
+    height: 250px;
+    color: black;
+    border: solid #888888;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.heading1 {
+    color: #FF0000;
+    margin-top: 10px;
+    margin-left: 500px;
+}
